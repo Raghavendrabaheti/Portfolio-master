@@ -25,7 +25,7 @@ function Home2() {
   With a foundation in <b className="purple">Java</b> and <b className="purple">DSA</b>, I focus on problem-solving and algorithm optimization while continuously exploring new technologies to improve workflows and system performance.
   <br />
   <br />
-  I have hands-on experience with <b className="purple">AWS</b>, <b className="purple">Kubernetes</b>, <b className="purple">Docker</b>, <b className="purple">Linux</b>, <b className="purple">React.js</b>, and <b className="purple">Node.js</b>.
+  I have hands-on experience with <b className="purple">AWS</b>, <b className="purple">Jenkins</b>, <b className="purple">Kubernetes</b>, <b className="purple">Docker</b>, <b className="purple">Linux</b>, <b className="purple">React.js</b>, and <b className="purple">Node.js</b>.
 </p>
           </Col>
           <Col md={4} className="myAvtar">
