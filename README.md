@@ -3,7 +3,7 @@
   <a href="https://raghavendraa.netlify.app/" target="_blank">Raghavendra.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="Screenshot 2025-04-11 at 4.15.33 PM.png" />
 </div>
 
 <br/>
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio [techtycoon.tech](https://raghavendraa.netlify.app/) which features some of my GitHub projects, resume, and technical skills.<br/>
+My personal portfolio [Raghavendra.tech](https://raghavendraa.netlify.app/) which features some of my GitHub projects, resume, and technical skills.<br/>
 
 This project was built using these technologies:
 
